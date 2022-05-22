@@ -1,4 +1,5 @@
 # snake
+
 1, Hướng dẫn cài đặt : 
   - sử dụng visual studio để code
   - cài đặt SDL2 và cài đặt SDL2_image .
@@ -11,7 +12,7 @@
                  - làm thế nào đê khi ăn quả rắn tăng thêm 1 đơn vị
  3, Mô tả các chức năng đã cài đặt, kèm video minh họa (chèn link video youtube)
     Các chức năng chính : có thể di chuyển lên, xuống trái phải; ăn quả để tăng chiều dài; chết khi đụng tường hoặc ắn trúng thân
-    link video : 
+    link video : em up trên file github
  4, Các kỹ thuật được lập trình như :
     - Đồ họa 
     - con trỏ
