@@ -27,6 +27,6 @@
     Hướng phát triển : đồ họa sẽ đẹp hơn, có thể thêm đổ ăn để rắn có thể tăng chiều dài nhiều đơn vị hơn, có thể đi xuyên tường
                        Thêm bảng điểm, nút bắt đầu để khởi động game, và khi rắn kết thức xuất hiện "game over" để thông báo
     Điều tâm đắc : Lập trình rất khó nên, nhưng bản thân đã tìm hiểu để có thể học hỏi, tìm tòi, game có thể chạy được và xây dựng tính tự học cao
-    Kết luận : Mặc dù game chư thực sự hoàn hảo và có nhiều sựu thiếu sót nhưng nó là sự cố gắng để hoàn thành 1 dự án đầu tiên của em. E
+    Kết luận : Mặc dù game chư thực sự hoàn hảo và có nhiều sựu thiếu sót nhưng nó là sự cố gắng để hoàn thành 1 dự án đầu tiên của em. 
     
     Em xin chân thành cảm ơn : 
